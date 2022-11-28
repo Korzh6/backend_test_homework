@@ -1,3 +1,5 @@
+
+
 import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -18,3 +20,4 @@ def test_program():
             'Исправьте в нем ошибки:\n'
             f'{e}'
         )
+
